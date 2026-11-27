@@ -1,0 +1,4 @@
+test1.txt;2;3;16084;26 ms;
+test2.txt;3;4;8456;25 ms;
+texto.txt;4;4;23840;24 ms;
+vacio.txt;0;0;13048;12 ms;
